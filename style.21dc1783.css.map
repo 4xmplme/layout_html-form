@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,kBACE,eACF,CAMA,4BACE,eACF","file":"style.21dc1783.css","sourceRoot":"../src","sourcesContent":["/* styles go here */\n.wrapper + .wrapper {\n  margin-top: 10px;\n}\n\n.fieldset + .fieldset {\n  margin-top: 20px;\n}\n\n.button {\n  margin-top: 20px;\n}\n"]}
